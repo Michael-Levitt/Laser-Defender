@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 073a94c46004c6c4f8c12cdd93366d56
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerShotSFX: {fileID: 8300000, guid: 94116b171cbda4243b7ba14b2c6b5f29, type: 3}
+  - playerDeadSFX: {fileID: 8300000, guid: 92a0b12298cd23b4faa986eb753ac9b8, type: 3}
+  - enemyDeadSFX: {fileID: 8300000, guid: 92a0b12298cd23b4faa986eb753ac9b8, type: 3}
+  - enemyShotSFX: {fileID: 8300000, guid: 8ea62e91b63201446b0454274d17535c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
